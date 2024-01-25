@@ -15,7 +15,7 @@ int main() {
     printf("Enter the fourth number: ");
     scanf("%d", &num3);
     
-    add = num1 + num2 + num3 + num4;
+    add = num1 + num2 + num3 + num4 + num5;
     
     printf("The sub of %d and %d is %d.", num1, num2, num3, num4, sum);
     
