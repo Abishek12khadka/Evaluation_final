@@ -24,7 +24,7 @@ int main() {
     scanf("%d", &num3);
 >>>>>>> acaf3f429cdf2fbbc5e57ae07994bf3f3f18e8cc
     
-    add = num1 + num2 + num3 + num4;
+    add = num1 + num2 + num3 + num4 + num5;
     
     printf("The sub of %d and %d is %d.", num1, num2, num3, num4, sum);
     
